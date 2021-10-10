@@ -1,0 +1,67 @@
+
+?edu.ncsu.monopoly.GameBoard#queryCellIndex(Ljava/lang/String;)Ik
+a/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/GameBoard.java` `("5*Á
+3k
+a/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/GameBoard.javad d("u
+k
+a/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/GameBoard.javad d(
+""*∑	
+4k
+a/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/GameBoard.javab b(Ω
+∫
+k
+a/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/GameBoard.javab b(
+%2java.util.ArrayList"__id***(
+edu.ncsu.monopoly.GameBoard"
+cells√
+¿
+k
+a/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/GameBoard.javab b( 
+%3edu.ncsu.monopoly.IOwnable"
+__arrayGet*
+
+%2java.util.ArrayList*
+""æ
+ª
+k
+a/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/GameBoard.javab b( "
+tempedu.ncsu.monopoly.IOwnable"__id*"
+ 
+%3edu.ncsu.monopoly.IOwnableÒÓ
+k
+a/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/GameBoard.javac c(
+%4java.lang.String"6edu.ncsu.monopoly.IOwnable#getName()Ljava/lang/String;*$
+"
+tempedu.ncsu.monopoly.IOwnable2	getName()Å˛
+k
+a/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/GameBoard.javac c(#
+%5boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%4java.lang.String*
+
+stringjava.lang.String2equals(Ljava/lang/Object;)*
+3
+5*¯
+5k
+a/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/GameBoard.javaa a(Ω
+∫
+k
+a/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/GameBoard.javaa a(
+%0java.util.ArrayList"__id***(
+edu.ncsu.monopoly.GameBoard"
+cellsΩ∫
+k
+a/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/GameBoard.javaa a(!	
+%1int"java.util.ArrayList#size()I*
+
+%0java.util.ArrayList2size()*
+4
+1*Á
+1k
+a/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/GameBoard.javag
+ g("u
+k
+a/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/GameBoard.javag g(
+"":
+stringjava.lang.StringB
+edu.ncsu.monopoly.GameBoard

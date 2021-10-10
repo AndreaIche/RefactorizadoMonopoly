@@ -1,0 +1,7 @@
+organization=andreaiche
+projectKey=MonopolyStaticVerification111
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.23810
+dashboardUrl=https://sonarcloud.io/dashboard?id=MonopolyStaticVerification111
+ceTaskId=AXxdFuzDUgsdb316e2Gw
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXxdFuzDUgsdb316e2Gw

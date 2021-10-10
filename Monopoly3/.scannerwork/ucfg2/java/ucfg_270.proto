@@ -1,0 +1,68 @@
+
+;edu.ncsu.monopoly.Player#checkProperty(Ljava/lang/String;)Zh
+^/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/Player.java8 8("5*á
+3h
+^/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/Player.java< <("r
+h
+^/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/Player.java< <(
+""*±	
+4h
+^/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/Player.java: :(¼
+¹
+h
+^/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/Player.java: :(
+%2java.util.ArrayList"__id*,**
+edu.ncsu.monopoly.Player"
+
+propertiesÄ
+Á
+h
+^/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/Player.java: :($$
+%3edu.ncsu.monopoly.PropertyCell"
+__arrayGet*
+
+%2java.util.ArrayList*
+""¿
+¼
+h
+^/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/Player.java: :(%"
+celledu.ncsu.monopoly.IOwnable"__id*&
+$
+%3edu.ncsu.monopoly.PropertyCellîë
+h
+^/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/Player.java; ;(
+%4java.lang.String"6edu.ncsu.monopoly.IOwnable#getName()Ljava/lang/String;*$
+"
+celledu.ncsu.monopoly.IOwnable2	getName()€ý
+h
+^/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/Player.java; ;(%
+%5boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%4java.lang.String*
+
+propertyjava.lang.String2equals(Ljava/lang/Object;)*
+3
+5*ñ
+5h
+^/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/Player.java9 9(¼
+¹
+h
+^/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/Player.java9 9(
+%0java.util.ArrayList"__id*,**
+edu.ncsu.monopoly.Player"
+
+propertiesº·
+h
+^/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/Player.java9 9(!	
+%1int"java.util.ArrayList#size()I*
+
+%0java.util.ArrayList2size()*
+4
+1*á
+1h
+^/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/Player.java?	 ?("r
+h
+^/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/Player.java? ?(
+"":
+propertyjava.lang.StringB
+edu.ncsu.monopoly.Player

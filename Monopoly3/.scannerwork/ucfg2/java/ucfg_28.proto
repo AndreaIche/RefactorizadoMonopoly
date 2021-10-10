@@ -1,0 +1,62 @@
+
+>edu.ncsu.monopoly.GoToJailCell#playAction(Ljava/lang/String;)Zn
+d/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/GoToJailCell.java ("1*¿
+1n
+d/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/GoToJailCell.java (#€
+ý
+n
+d/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/GoToJailCell.java (."
+%0edu.ncsu.monopoly.GameMaster"Eedu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;* "
+edu.ncsu.monopoly.GameMaster˜•
+n
+d/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/GoToJailCell.java (A
+%1edu.ncsu.monopoly.Player"Iedu.ncsu.monopoly.GameMaster#getCurrentPlayer()Ledu/ncsu/monopoly/Player;*$
+"
+%0edu.ncsu.monopoly.GameMaster2getCurrentPlayer()Æ
+Ã
+n
+d/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/GoToJailCell.java (B)
+currentPlayeredu.ncsu.monopoly.Player"__id* 
+
+%1edu.ncsu.monopoly.Player€
+ý
+n
+d/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/GoToJailCell.java ()"
+%2edu.ncsu.monopoly.GameMaster"Eedu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;* "
+edu.ncsu.monopoly.GameMaster–“
+n
+d/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/GoToJailCell.java (8!
+%3edu.ncsu.monopoly.GameBoard"Hedu.ncsu.monopoly.GameMaster#getGameBoard()Ledu/ncsu/monopoly/GameBoard;*$
+"
+%2edu.ncsu.monopoly.GameMaster2getGameBoard()º·
+n
+d/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/GoToJailCell.java (J 
+%4edu.ncsu.monopoly.IOwnable"Uedu.ncsu.monopoly.GameBoard#queryCell(Ljava/lang/String;)Ledu/ncsu/monopoly/IOwnable;*#
+!
+%3edu.ncsu.monopoly.GameBoard*
+Jail2queryCell(Ljava/lang/String;)É
+Æ
+n
+d/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/GoToJailCell.java (K* 
+edu.ncsu.monopoly.GoToJailCell"
+jail"__id*"
+ 
+%4edu.ncsu.monopoly.IOwnable€
+ý
+n
+d/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/GoToJailCell.java ("
+%5edu.ncsu.monopoly.GameMaster"Eedu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;* "
+edu.ncsu.monopoly.GameMasterÀ½
+n
+d/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/GoToJailCell.java (1
+
+%6void"Dedu.ncsu.monopoly.GameMaster#sendToJail(Ledu/ncsu/monopoly/Player;)V*$
+"
+%5edu.ncsu.monopoly.GameMaster*+
+)
+currentPlayeredu.ncsu.monopoly.Player2&sendToJail(Ledu/ncsu/monopoly/Player;)"x
+n
+d/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/GoToJailCell.java (
+"":
+msgjava.lang.StringB" 
+edu.ncsu.monopoly.GoToJailCell

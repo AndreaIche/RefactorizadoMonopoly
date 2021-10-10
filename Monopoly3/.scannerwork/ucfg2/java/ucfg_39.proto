@@ -1,0 +1,36 @@
+
+0edu.ncsu.monopoly.gui.MainWindow#getDiceRoll()[Ip
+f/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/gui/MainWindow.javaX X("1*†
+1p
+f/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/gui/MainWindow.javaY5 Y(9œÃ
+p
+f/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/gui/MainWindow.javaY" Y(4.
+%0(edu.ncsu.monopoly.gui.TestDiceRollDialog"(edu.ncsu.monopoly.gui.TestDiceRollDialogó
+î
+p
+f/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/gui/MainWindow.javaY Y(:
+%1"Bedu.ncsu.monopoly.gui.TestDiceRollDialog#<init>(Ljava/awt/Frame;)V*0
+.
+%0(edu.ncsu.monopoly.gui.TestDiceRollDialog*$"
+ edu.ncsu.monopoly.gui.MainWindow·
+ﬁ
+p
+f/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/gui/MainWindow.javaY Y(;2
+dialog(edu.ncsu.monopoly.gui.TestDiceRollDialog"__id*0
+.
+%0(edu.ncsu.monopoly.gui.TestDiceRollDialogÿ’
+p
+f/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/gui/MainWindow.javaZ Z(
+
+%2void"java.awt.Dialog#show()V*4
+2
+dialog(edu.ncsu.monopoly.gui.TestDiceRollDialog2show()Å˛
+p
+f/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/gui/MainWindow.java[	 [(
+%3int[]"8edu.ncsu.monopoly.gui.TestDiceRollDialog#getDiceRoll()[I*4
+2
+dialog(edu.ncsu.monopoly.gui.TestDiceRollDialog2getDiceRoll()"z
+p
+f/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/gui/MainWindow.java[ [(
+""B$"
+ edu.ncsu.monopoly.gui.MainWindow

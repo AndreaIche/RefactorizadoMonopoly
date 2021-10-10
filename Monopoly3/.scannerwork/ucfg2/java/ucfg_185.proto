@@ -1,0 +1,30 @@
+
+`edu.ncsu.monopoly.gui.CCCellInfoFormatter#format(Ledu/ncsu/monopoly/IOwnable;)Ljava/lang/String;y
+o/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/gui/CCCellInfoFormatter.java ("1*Í
+1y
+o/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/gui/CCCellInfoFormatter.java (.ÿü
+y
+o/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/gui/CCCellInfoFormatter.java1 (?
+%0java.lang.String"6edu.ncsu.monopoly.IOwnable#getName()Ljava/lang/String;*$
+"
+celledu.ncsu.monopoly.IOwnable2	getName()Ý
+Ú
+y
+o/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/gui/CCCellInfoFormatter.java (?
+%1java.lang.String"__concat*!
+<html><font color='white'><b>*
+
+%0java.lang.StringÒ
+Ï
+y
+o/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/gui/CCCellInfoFormatter.java (V
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+</b></font></html>"•
+y
+o/Users/andreagarciaiche/Desktop/IS2/lab2.1/Lab 1.2/Monopoly3/src/edu/ncsu/monopoly/gui/CCCellInfoFormatter.java (W
+
+%2java.lang.String:"
+celledu.ncsu.monopoly.IOwnableB-+
+)edu.ncsu.monopoly.gui.CCCellInfoFormatter
